@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+header{ 
+    background-color: rgb(255, 210, 156);
+    
+}
+h1{
+    background-color: rgb(254, 196, 121);
+}
+form{
+    width: 400px; 
+    margin: 40px;
+    border: 2px solid; 
+    padding-left: 10px;
+}
+footer{
+    background-color: rgb(252, 184, 160);
+}
